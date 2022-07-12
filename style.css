@@ -1,0 +1,40 @@
+.card {
+   display: flex;
+   justify-content:space-between ;
+   border: 1px solid black;
+   background-color: blue;
+
+}
+
+.one {
+    width: 150px;
+    height: 75px;
+    background-color:blue;
+    text-align: center;
+    padding-top: 35px;
+    font-size: 23pxpx;
+}
+.two {
+    width: 150px;
+    height: 75px;
+    background-color: blue;
+    text-align: center;
+    padding-top: 35px;
+    font-size: 23pxpx;
+}
+.three {
+    width: 150px;
+    height: 75px;
+    background-color: blue;
+    text-align: center;
+    padding-top: 35px;
+    font-size: 23pxpx;
+}
+.four {
+    width: 150px;
+    height: 75px;
+    background-color:blue ;
+    text-align: center;
+    padding-top: 35px;
+    font-size: 23pxpx;
+}
